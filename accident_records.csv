@@ -1,0 +1,51 @@
+Order_ID,Restaurant_Name,City,Cuisine_Type,Order_Date,Order_Time,Delivery_Time_mins,Order_Value,Discount_Applied,Final_Amount,Payment_Mode,Rating,Customer_Age_Group,Day_of_Week,Month,Year,Zone,Weather_Condition,Is_Weekend
+Z001,Spice Garden,Mumbai,North Indian,2024-01-05,12:30,35,450,45,405,UPI,4.5,25-34,Friday,January,2024,West,Clear,No
+Z002,Biryani House,Delhi,Biryani,2024-01-06,13:15,42,620,62,558,Cash,4.2,18-24,Saturday,January,2024,North,Clear,Yes
+Z003,Pizza Palace,Bangalore,Pizza,2024-01-07,19:00,28,780,78,702,Card,4.8,25-34,Sunday,January,2024,South,Rainy,Yes
+Z004,Dosa Corner,Chennai,South Indian,2024-01-08,08:45,20,280,0,280,UPI,4.1,35-44,Monday,January,2024,South,Clear,No
+Z005,Burger Barn,Hyderabad,Fast Food,2024-01-09,21:00,38,520,52,468,UPI,3.9,18-24,Tuesday,January,2024,South,Clear,No
+Z006,Curry Leaf,Pune,North Indian,2024-01-10,13:00,30,390,0,390,Card,4.3,25-34,Wednesday,January,2024,West,Cloudy,No
+Z007,Tandoori Nights,Mumbai,North Indian,2024-01-11,20:30,45,850,85,765,UPI,4.6,35-44,Thursday,January,2024,West,Clear,No
+Z008,Noodle Hub,Kolkata,Chinese,2024-01-12,18:00,33,430,43,387,Cash,4.0,18-24,Friday,January,2024,East,Clear,No
+Z009,Sushi Spot,Bangalore,Japanese,2024-01-13,19:30,25,1200,120,1080,Card,4.9,25-34,Saturday,January,2024,South,Clear,Yes
+Z010,Frankie World,Delhi,Fast Food,2024-01-14,14:00,22,320,32,288,UPI,3.8,18-24,Sunday,January,2024,North,Cloudy,Yes
+Z011,Masala Hut,Mumbai,North Indian,2024-02-01,12:00,40,560,56,504,UPI,4.4,25-34,Thursday,February,2024,West,Clear,No
+Z012,Kerala Kitchen,Chennai,South Indian,2024-02-02,13:30,28,380,0,380,Card,4.7,35-44,Friday,February,2024,South,Clear,No
+Z013,Kebab King,Hyderabad,Mughlai,2024-02-03,20:00,50,920,92,828,Cash,4.3,25-34,Saturday,February,2024,South,Clear,Yes
+Z014,Pasta Point,Pune,Italian,2024-02-04,19:00,32,680,68,612,UPI,4.5,18-24,Sunday,February,2024,West,Rainy,Yes
+Z015,Chinese Bowl,Delhi,Chinese,2024-02-05,18:30,38,470,47,423,Card,4.1,35-44,Monday,February,2024,North,Clear,No
+Z016,Veg Delight,Mumbai,Vegetarian,2024-02-06,13:00,25,290,0,290,UPI,4.6,45-54,Tuesday,February,2024,West,Clear,No
+Z017,Seafood Shack,Kolkata,Seafood,2024-02-07,19:00,40,880,88,792,Cash,4.2,25-34,Wednesday,February,2024,East,Cloudy,No
+Z018,Roll Republic,Bangalore,Street Food,2024-02-08,21:00,18,240,24,216,UPI,3.9,18-24,Thursday,February,2024,South,Clear,No
+Z019,Thali House,Jaipur,Rajasthani,2024-02-09,12:30,35,410,41,369,Card,4.4,35-44,Friday,February,2024,North,Clear,No
+Z020,Pizza Palace,Mumbai,Pizza,2024-02-10,20:00,30,750,75,675,UPI,4.7,25-34,Saturday,February,2024,West,Clear,Yes
+Z021,Biryani Hub,Hyderabad,Biryani,2024-03-01,13:00,42,700,70,630,Cash,4.5,25-34,Friday,March,2024,South,Clear,No
+Z022,Dosa World,Chennai,South Indian,2024-03-02,08:30,22,310,0,310,UPI,4.3,35-44,Saturday,March,2024,South,Clear,Yes
+Z023,Burger Zone,Delhi,Fast Food,2024-03-03,19:30,28,490,49,441,Card,4.0,18-24,Sunday,March,2024,North,Cloudy,Yes
+Z024,Spice Route,Mumbai,North Indian,2024-03-04,20:00,38,820,82,738,UPI,4.6,25-34,Monday,March,2024,West,Clear,No
+Z025,Wok & Roll,Bangalore,Chinese,2024-03-05,18:00,30,540,54,486,Cash,4.2,18-24,Tuesday,March,2024,South,Clear,No
+Z026,Tikka Town,Pune,Mughlai,2024-03-06,13:30,45,670,67,603,UPI,4.4,35-44,Wednesday,March,2024,West,Rainy,No
+Z027,South Bites,Chennai,South Indian,2024-03-07,12:00,20,350,0,350,Card,4.8,45-54,Thursday,March,2024,South,Clear,No
+Z028,Sandwich Hub,Mumbai,Fast Food,2024-03-08,10:00,15,220,22,198,UPI,3.7,18-24,Friday,March,2024,West,Clear,No
+Z029,Heritage Thali,Jaipur,Rajasthani,2024-03-09,13:00,38,480,48,432,Cash,4.5,25-34,Saturday,March,2024,North,Clear,Yes
+Z030,Momo Magic,Delhi,Tibetan,2024-03-10,19:00,25,360,36,324,UPI,4.1,18-24,Sunday,March,2024,North,Cloudy,Yes
+Z031,Haleem House,Hyderabad,Mughlai,2024-04-01,13:30,40,590,59,531,Card,4.4,25-34,Monday,April,2024,South,Clear,No
+Z032,Rajma Chawal,Delhi,North Indian,2024-04-02,12:00,28,310,0,310,UPI,4.2,35-44,Tuesday,April,2024,North,Clear,No
+Z033,Crispy Chicken,Mumbai,Fast Food,2024-04-03,20:00,32,580,58,522,Cash,3.9,18-24,Wednesday,April,2024,West,Clear,No
+Z034,Pasta Palace,Bangalore,Italian,2024-04-04,19:30,27,750,75,675,UPI,4.6,25-34,Thursday,April,2024,South,Clear,No
+Z035,Chole Bhature,Amritsar,North Indian,2024-04-05,09:00,30,260,0,260,Card,4.7,35-44,Friday,April,2024,North,Clear,No
+Z036,Dragon Wok,Kolkata,Chinese,2024-04-06,18:30,35,490,49,441,UPI,4.0,25-34,Saturday,April,2024,East,Cloudy,Yes
+Z037,Saravana Bhavan,Chennai,South Indian,2024-04-07,12:30,22,330,0,330,Cash,4.5,45-54,Sunday,April,2024,South,Clear,Yes
+Z038,Mughal Darbar,Delhi,Mughlai,2024-04-08,20:30,48,980,98,882,UPI,4.3,35-44,Monday,April,2024,North,Clear,No
+Z039,Wrap & Go,Pune,Fast Food,2024-04-09,14:00,20,280,28,252,Card,3.8,18-24,Tuesday,April,2024,West,Clear,No
+Z040,Punjabi Dhaba,Mumbai,North Indian,2024-04-10,13:00,42,610,61,549,UPI,4.5,25-34,Wednesday,April,2024,West,Rainy,No
+Z041,Andhra Spice,Hyderabad,South Indian,2024-05-01,12:00,25,370,37,333,Cash,4.6,35-44,Wednesday,May,2024,South,Clear,No
+Z042,Chinese Express,Mumbai,Chinese,2024-05-02,19:00,30,520,52,468,UPI,4.1,25-34,Thursday,May,2024,West,Clear,No
+Z043,Bombay Sandwich,Mumbai,Street Food,2024-05-03,10:30,18,190,0,190,Card,4.3,18-24,Friday,May,2024,West,Clear,No
+Z044,Rice Bowl,Bangalore,South Indian,2024-05-04,12:30,20,280,28,252,UPI,4.4,25-34,Saturday,May,2024,South,Clear,Yes
+Z045,Grill Station,Delhi,BBQ,2024-05-05,20:00,40,860,86,774,Cash,4.5,35-44,Sunday,May,2024,North,Clear,Yes
+Z046,Saffron,Jaipur,Rajasthani,2024-05-06,13:00,35,520,52,468,UPI,4.7,45-54,Monday,May,2024,North,Clear,No
+Z047,Tokyo Ramen,Bangalore,Japanese,2024-05-07,19:30,28,890,89,801,Card,4.8,25-34,Tuesday,May,2024,South,Cloudy,No
+Z048,Biryani Bros,Hyderabad,Biryani,2024-05-08,13:30,38,640,64,576,UPI,4.4,18-24,Wednesday,May,2024,South,Clear,No
+Z049,Paneer Paradise,Pune,North Indian,2024-05-09,20:00,33,490,49,441,Cash,4.2,25-34,Thursday,May,2024,West,Clear,No
+Z050,Street Bites,Kolkata,Street Food,2024-05-10,18:00,25,270,0,270,UPI,4.0,18-24,Friday,May,2024,East,Rainy,No
